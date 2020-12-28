@@ -1,0 +1,222 @@
+.body{
+    padding:10%;
+}
+
+  
+
+
+.container{
+    text-align: right;
+    float: right;
+    position: relative;
+    top: 10px;
+    right: auto;
+    right: auto;
+    transition: 0.8s;
+    
+
+}   
+
+ .btn{
+     border: 2px solid rgb(59, 59, 128);
+     background: none;
+     padding: 10px 20px;
+     font-size: 15px;
+     font-family:montserrat;
+     cursor: pointer;
+     margin: 8px;
+     margin-top: auto;
+}
+
+.btn1,.btn2,.btn3{
+    color: rgb(57, 57, 136);
+}
+.btn1:hover,.btn2:hover,.btn3:hover{
+    color: rgb(138, 138, 138);
+}
+  .image{
+    padding-left:auto;
+}
+.top{
+    
+    background: auto;
+    background-color: rgb(25, 25, 87);
+    color: aqua;
+    
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family:montserrat;
+    cursor: pointer;
+    margin: 8px;
+    margin-top: auto;
+}
+.t1,.t2,.t3,.t4{
+    border: 2px solid rgb(59, 59, 128);
+     box-sizing: content-box;
+}
+}
+
+  .t1:hover,.t2:hover,.t3:hover,.t4:hover{
+    color: rgb(78, 20, 20);
+} 
+
+.image-1{
+    position: relative;
+}
+
+.image-1{
+   
+}
+  .image-text{
+      position: absolute;
+      top: 25px;
+      right: 100px;
+      
+      color: rgb(0, 0, 0);
+      padding: 20px;
+}
+
+.image-text h2{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.image-text h1{
+    font-style: oblique;
+    background: fixed;
+    background-size: 100px;
+    background-color: rgb(255, 255, 68);
+    
+}
+.dte{ 
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+     background: auto;
+     background-color: rgb(9, 75, 255);
+     font-size: 160%;
+     content: normal;
+}
+
+
+
+.jkl{
+    padding-right: 35%;
+    top: auto;
+    text-align: right;
+    float: right;
+    position: relative;
+    font-size:larger;
+}
+
+.jkl2{
+    padding-left: 35%;
+    background-color:rgb(9, 75, 255);
+    font-size:larger;
+}
+
+.w1,.w2{
+    border: 2px solid rgb(1, 1, 24);
+     background: none;
+     padding: 10px 20px;
+     font-size: 15px;
+     font-family:montserrat;
+     cursor: pointer;
+     margin: 8px;
+     margin-top: auto;
+}
+.w1:hover,.w2:hover{
+    color: rgb(78, 20, 20);
+}
+
+.HH{
+    padding-left: 5%;
+    color: rgb(238, 108, 1);
+    font-weight: bold;
+}
+
+.desc{
+    font-size: large;
+    font-weight: bold;
+    color: orangered;
+    
+}
+
+.gallery {
+    padding-right:10%;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  .gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  .gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .desc {
+    padding: 15px;
+    text-align: center;}
+   
+.vv{
+   color: orangered;
+   font-size: large;
+   
+   
+}
+font-style: italic;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+     background: auto;
+     background-color: rgb(9, 75, 255);
+     font-size: 160%;
+     content: normal;
+}
+
+
+}
+
+
+.how{
+    padding-left:12%;
+    top: auto;
+    text-align: left;
+    float: left;
+    
+
+}
+
+.bbb{
+   padding-left: 0%;
+   font-size: x-large;
+   font-weight: bolder;
+  
+   
+}
+
+.iii{
+    padding-left: 40px;
+   color: #777;
+   font-size: larger;
+}
+  .ooo{
+      padding-right:100px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid rgb(37, 36, 36);
+    background-color: rgb(68, 59, 59);
+    font-size:large;
+    color: #ccc;
+  }
